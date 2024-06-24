@@ -7,4 +7,12 @@ This report provides a comprehensive root cause analysis of recent DeFi security
 ### 202 incidents covered
 [https://web3sec.notion.site/c582b99cd7a84be48d972ca2126a2a1f](https://web3sec.notion.site/c582b99cd7a84be48d972ca2126a2a1f)
 
+### Report Structure
+
+The report includes the following fields:
+
+- **Root Cause:** Point out the root cause of the vulnerability.
+- **Vulnerable Code:** Specific code segments that were exploited.
+- **Attack Transaction:** transaction used in the attack.
+- **Analysis:** Comprehensive analysis of the breach and recommendations.
 ### More is coming; stay tuned.
