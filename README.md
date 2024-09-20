@@ -18,4 +18,4 @@ The report includes the following fields:
 ### More is coming; stay tuned.
 
 ### Todo
-- Contributors are welcome to join in indexing the database and design a website from [data](https://github.com/SunWeb3Sec/DeFi-Security-Breach-RCA/tree/upload/data)
+- Contributors are welcome to join in indexing the database and design a website from [data](https://github.com/SunWeb3Sec/DeFi-Security-Breach-RCA/tree/upload/data) Data larger than 50Mb can not upload to Github, please DM.
