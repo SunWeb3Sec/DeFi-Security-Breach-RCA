@@ -15,7 +15,6 @@ The report includes the following fields:
 - **Vulnerable Code:** Specific code segments that were exploited.
 - **Attack Transaction:** transaction used in the attack.
 - **Analysis:** Comprehensive analysis of the breach and recommendations.
-### More is coming; stay tuned.
 
-### Todo
-- Contributors are welcome to join in indexing the database and design a website from [data](https://github.com/SunWeb3Sec/DeFi-Security-Breach-RCA/tree/upload/data) Data larger than 50Mb can not upload to Github, please DM.
+### Donwnload
+- **CVS Dataset:** https://drive.google.com/file/d/1eFTk-weKk-egDi6mSP9yCK5qQo2_jDZd/view
